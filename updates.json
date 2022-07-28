@@ -1,0 +1,18 @@
+{
+    "updates": {
+        "v2.6.1": [],
+        "v2.6.0": [
+            "v2.6.1"
+        ]
+    },
+    "urls": {
+        "v2.6.1": [
+            "https://github.com/download/whaleticker_v2.6.1.bin",
+            "https://github.com/download/whaleticker_spiffs_v2.6.1.bin"
+        ],
+        "v2.6.0": [
+            "https://github.com/download/whaleticker_v2.6.0.bin",
+            "https://github.com/download/whaleticker_spiffs_v2.6.0.bin"
+        ]
+    }
+}
