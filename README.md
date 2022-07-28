@@ -1,0 +1,2 @@
+# assets
+Whale Ticker assets
