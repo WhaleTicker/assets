@@ -1,13 +1,13 @@
 {
     "updates": {
-        "v2.6.2": false,
-        "v2.6.1": "v2.6.2",
-        "v2.6.0": "v2.6.2"
+        "v2.7.0": false,
+        "v2.6.1": false,
+        "v2.6.0": "v2.6.1"
     },
     "downloads": {
-        "v2.6.2": {
-            "firmware": "https://github.com/WhaleTicker/assets/releases/download/release_v2/whaleticker_v2.6.2.bin",
-            "spiffs": "https://github.com/WhaleTicker/assets/releases/download/release_v2/whaleticker_spiffs_v2.6.2.bin"
+        "v2.7.0": {
+            "firmware": "https://github.com/WhaleTicker/assets/releases/download/release_v2/whaleticker_v2.7.0.bin",
+            "spiffs": "https://github.com/WhaleTicker/assets/releases/download/release_v2/whaleticker_spiffs_v2.7.0.bin"
         },
         "v2.6.1": {
             "firmware": "https://github.com/WhaleTicker/assets/releases/download/release_v2/whaleticker_v2.6.1.bin",
